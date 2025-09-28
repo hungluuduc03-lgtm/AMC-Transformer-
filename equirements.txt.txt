@@ -1,0 +1,9 @@
+numpy>=2.0.2
+pandas>=2.2.2
+tensorflow>=2.19.0
+h5py>=3.14.0
+scikit-learn>=1.6.1
+matplotlib>=3.10.0
+seaborn>=0.13.2
+torch>=2.8.0+cu126
+tqdm>=4.67.1
